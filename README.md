@@ -9,3 +9,23 @@ En este primer ejercicio he aprendido a utilizar las herramientas de inspección
 
 ### Evidencias del proceso:
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/2f8962ce-06b8-47f6-8a1c-479d8682fd72" />
+---
+
+
+
+## 🌐 Reto 2: Arquitectura Web y Cliente-Servidor
+
+En este ejercicio he aplicado los conceptos básicos de cómo funciona la web y la relación entre los elementos que la componen.
+
+### 📝 Lo que he aprendido:
+* **Modelo Cliente-Servidor:** Es la base de las aplicaciones web, donde las funciones se dividen entre el cliente (que hace la solicitud) y el servidor (que procesa y responde).
+* **Las 3 Tecnologías Base:**
+    1. **HTML:** El lenguaje que utilizo para estructurar y presentar el contenido.
+    2. **URI/URL:** La dirección única que identifica cada recurso en la red.
+    3. **HTTP:** El protocolo o "idioma" que define cómo se transmite la información.
+* **Comunicación:** He comprendido el ciclo donde el navegador envía una petición y el servidor devuelve el recurso solicitado.
+
+### 💻 Práctica realizada:
+He creado un archivo HTML con Visual Studio Code para poner en práctica la jerarquía de etiquetas y la inserción de hipervínculos funcionales.
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d5c9fae2-ef7d-4346-b477-aa9c386221ec" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d2c40b3e-5ade-463b-beaf-87664ff7cccf" />
