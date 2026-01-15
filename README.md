@@ -29,3 +29,17 @@ En este ejercicio he aplicado los conceptos básicos de cómo funciona la web y 
 He creado un archivo HTML con Visual Studio Code para poner en práctica la jerarquía de etiquetas y la inserción de hipervínculos funcionales.
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d5c9fae2-ef7d-4346-b477-aa9c386221ec" />
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/cdfda298-fc97-4122-a772-b022824dd622" />
+---
+
+## 🛠️ Reto 3: Navegadores y Herramientas de Desarrollo
+
+En esta unidad he aprendido que el navegador es la herramienta principal de trabajo de un desarrollador para interpretar y depurar código.
+
+### 📝 Conceptos aplicados (Unidad 1.2):
+* **Interpretación de código:** El navegador transforma el HTML y CSS en una interfaz visual para el usuario.
+* **Motores de Renderizado:** Entiendo que existen diferentes motores (como el de Chromium o Firefox) que procesan la información.
+* **DevTools (F12):** He practicado el uso del inspector de elementos para modificar estilos y la consola para monitorizar mensajes de depuración.
+
+### 💻 Práctica realizada:
+He creado un ejercicio para practicar la localización de elementos ocultos mediante el inspector y el uso de la consola para recibir mensajes del sistema.
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/7339b96f-a1b3-4309-9e68-049987d886c7" />
