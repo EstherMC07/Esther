@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Reto 3: Herramientas de Desarrollo</title>
+    <style>
+        .texto-secreto { color: white; } /* Este texto no se ve porque es blanco sobre blanco */
+        button { padding: 10px; background-color: #007bff; color: white; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Jugando con las DevTools</h1>
+    <p>Usa el inspector para encontrar el texto oculto aquí abajo:</p>
+    
+    <p class="texto-secreto">¡Felicidades! Has usado el inspector correctamente.</p>
+
+    <button id="miBoton">Haz clic para ver la consola</button>
+
+    <script>
+        document.getElementById('miBoton').onclick = function() {
+            console.log("¡Mensaje enviado a la pestaña Consola!");
+            alert("Mira el mensaje en la Consola (F12)");
+        };
+    </script>
+</body>
+</html>
