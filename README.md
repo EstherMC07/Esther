@@ -28,4 +28,4 @@ En este ejercicio he aplicado los conceptos básicos de cómo funciona la web y 
 ### 💻 Práctica realizada:
 He creado un archivo HTML con Visual Studio Code para poner en práctica la jerarquía de etiquetas y la inserción de hipervínculos funcionales.
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d5c9fae2-ef7d-4346-b477-aa9c386221ec" />
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d2c40b3e-5ade-463b-beaf-87664ff7cccf" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/cdfda298-fc97-4122-a772-b022824dd622" />
