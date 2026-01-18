@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio de Esther</title>
+    <style>
+        body {
+            background-color: #4872b3; /* Fondo azul */
+            font-family: Arial, sans-serif;
+            color: white;
+            text-align: center;
+        }
+        .tarjeta {
+            background-color: lightgreen;
+            padding: 20px;
+            border: 3px solid green;
+            width: 300px;
+            margin: 20px auto;
+            border-radius: 15px;
+            box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+            color: black;
+        }
+        img {
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="tarjeta">
+        <h1>Esther Mendieta</h1>
+        <p>Estudiante de Desarrollo Web</p>
+        <a href="https://www.linkedin.com" target="_blank">Mi LinkedIn</a>
+    </div>
+
+    <h2>Sobre mí</h2>
+    <h3>Mis estudios</h3>
+    <h4>DAW - Grado Superior</h4>
+    <h5>Aprendiendo HTML y CSS</h5>
+    <h6>Nivel inicial</h6>
+
+    <p>Estoy construyendo mi portfolio paso a paso. Mis objetivos son:</p>
+    <ul style="display: inline-block; text-align: left;">
+        <li>Aprender a programar</li>
+        <li>Diseñar páginas web</li>
+        <li>Subir mis proyectos a GitHub</li>
+    </ul>
+
+    <h3>Mi primer Proyecto</h3>
+    <img src="https://picsum.photos/200/150" alt="Imagen de código">
+
+    <br><br>
+    <button onclick="saludar()">¡Púlsame!</button>
+
+    <script>
+        function saludar() {
+            alert("¡Reto superado! Has actualizado tu portfolio con éxito.");
+        }
+    </script>
+
+</body>
+</html>
+
