@@ -45,3 +45,11 @@ En esta unidad he aprendido que el navegador es la herramienta principal de trab
 [🔗 Ver el código de Herramientas.html](./Herramientas.html)
 He creado un ejercicio para practicar la localización de elementos ocultos mediante el inspector y el uso de la consola para recibir mensajes del sistema.
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/7339b96f-a1b3-4309-9e68-049987d886c7" />
+
+## 🚀 Reto 4: Mi primera Tarjeta y Listas
+En este reto he creado una tarjeta de presentación con:
+* Encabezados de diferentes niveles (H1 a H6).
+* Listas ordenadas y desordenadas.
+* Una imagen con bordes redondeados.
+
+Puedes ver el código aquí: [index.html](index.html)
