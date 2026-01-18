@@ -53,3 +53,7 @@ En este reto he creado una tarjeta de presentación con:
 * Una imagen con bordes redondeados.
 
 Puedes ver el código aquí: [index.html](index.html)
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/96c75add-2486-4e5e-bcf5-8ef99b2ff5fe" />
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/7dcb27dc-e08d-487d-9dbe-4e6e6d371f37" />
+
+
