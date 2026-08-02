@@ -9,9 +9,8 @@ En este primer ejercicio he aprendido a utilizar las herramientas de inspección
 
 ### Evidencias del proceso:
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/2f8962ce-06b8-47f6-8a1c-479d8682fd72" />
+
 ---
-
-
 
 ## 🌐 Reto 2: Arquitectura Web y Cliente-Servidor
 
@@ -30,6 +29,7 @@ He creado un archivo HTML con Visual Studio Code para poner en práctica la jera
 [🔗 Ver el código de Arquitectura.html](./Arquitectura.html)
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/d5c9fae2-ef7d-4346-b477-aa9c386221ec" />
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/cdfda298-fc97-4122-a772-b022824dd622" />
+
 ---
 
 ## 🛠️ Reto 3: Navegadores y Herramientas de Desarrollo
@@ -45,6 +45,8 @@ En esta unidad he aprendido que el navegador es la herramienta principal de trab
 [🔗 Ver el código de Herramientas.html](./Herramientas.html)
 He creado un ejercicio para practicar la localización de elementos ocultos mediante el inspector y el uso de la consola para recibir mensajes del sistema.
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/7339b96f-a1b3-4309-9e68-049987d886c7" />
+
+---
 
 ## 🚀 Reto 4: Mi primera Tarjeta y Listas
 En este reto he creado una tarjeta de presentación con:
@@ -69,4 +71,17 @@ En este reto he practicado la sintaxis básica de JavaScript creando variables, 
 [🔗 Ver el código de Ejercicio Java script.html](./Ejercicio%20Java%20script.html)
 
 
+---
+
+## ⚡ Reto 5: Fundamentos de JavaScript
+En este reto he practicado la sintaxis básica de JavaScript creando variables, un objeto con mis datos, una lista de intereses y una función interactiva.
+
+### 📝 Conceptos aplicados:
+* **Variables:** Almacenamiento de mi nombre, edad y ciudad.
+* **Objeto:** Creación de la estructura `persona` con datos organizados.
+* **Array:** Creación de una lista de intereses.
+* **Función:** Uso de `alert()` y `console.log()` para mostrar los datos.
+
+### 💻 Práctica realizada:
+[🔗 Ver el código de Ejercicio Java script.html](./Ejercicio%20Java%20script.html)
 
