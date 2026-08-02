@@ -56,4 +56,14 @@ Puedes ver el código aquí: [index.html](index.html)
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/96c75add-2486-4e5e-bcf5-8ef99b2ff5fe" />
 <img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/7dcb27dc-e08d-487d-9dbe-4e6e6d371f37" />
 
+## ⚡ Reto 5: Fundamentos de JavaScript
+En este reto he practicado la sintaxis básica de JavaScript creando variables, un objeto con mis datos, una lista de intereses y una función interactiva.
+
+### 📝 Conceptos aplicados:
+* **Variables:** Almacenamiento de mi nombre, edad y ciudad.
+* **Objeto:** Creación de la estructura `persona` con datos organizados.
+* **Array:** Creación de una lista de intereses.
+* **Función:** Uso de `alert()` y `console.log()` para mostrar los datos.
+     ### 💻 Práctica realizada:
+[🔗 Ver el código de Ejercicio Java script.html](./Ejercicio%20Java%20script.html)
 
