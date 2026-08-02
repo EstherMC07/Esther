@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reto 5: Fundamentos de JavaScript</title>
+</head>
+<body>
+
+    <h1>Reto 5: Práctica de JavaScript</h1>
+    <p>Abre la consola del navegador (F12) o pulsa el botón para ver los datos.</p>
+
+    <button onclick="mostrarInformacion()">¡Púlsame!</button>
+
+    <script>
+        // 1. Variables
+        const nombre = "Esther";
+        const edad = 46;
+        const ciudad = "Madrid";
+
+        // 2. Objeto
+        const persona = {
+            nombre: nombre,
+            edad: edad,
+            ciudad: ciudad
+        };
+
+        // 3. Array (Lista de intereses)
+        const intereses = ["Desarrollo Web", "Tecnología", "Integración Social"];
+
+        // 4. Función interactiva
+        function mostrarInformacion() {
+            alert("¡Hola! Soy " + persona.nombre + " de " + persona.ciudad + " y estoy aprendiendo JavaScript.");
+            console.log("Datos de la persona:", persona);
+            console.log("Mis intereses son:", intereses);
+        }
+    </script>
+
+</body>
+</html>
