@@ -73,15 +73,3 @@ En este reto he practicado la sintaxis básica de JavaScript creando variables, 
 
 ---
 
-## ⚡ Reto 5: Fundamentos de JavaScript
-En este reto he practicado la sintaxis básica de JavaScript creando variables, un objeto con mis datos, una lista de intereses y una función interactiva.
-
-### 📝 Conceptos aplicados:
-* **Variables:** Almacenamiento de mi nombre, edad y ciudad.
-* **Objeto:** Creación de la estructura `persona` con datos organizados.
-* **Array:** Creación de una lista de intereses.
-* **Función:** Uso de `alert()` y `console.log()` para mostrar los datos.
-
-### 💻 Práctica realizada:
-[🔗 Ver el código de Ejercicio Java script.html](./Ejercicio%20Java%20script.html)
-
